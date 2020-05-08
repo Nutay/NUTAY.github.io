@@ -4,4 +4,4 @@
 NUTAY sabe que lo más importante es la salud, por lo que busca darle la oportunidad a cada usuario de ser la mejor versión de sí mismo en estos tiempos de cuarentena.
 
 #### Contacto
-En caso de tener dudas favor de contactar a [este_correo_no_existe@hotmail.com](outlook.com)
+En caso de tener dudas favor de contactar a [este_correo_no_existe@hotmail.com](https://outlook.live.com/owa/)
