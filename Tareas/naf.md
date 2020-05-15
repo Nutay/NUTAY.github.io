@@ -1,0 +1,3 @@
+## TAREAS PARA CALCULAR EL NAF
+
+![alt text](../Things2/TAREAS_NAF.PNG)
