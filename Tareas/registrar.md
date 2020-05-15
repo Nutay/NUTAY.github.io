@@ -1,0 +1,3 @@
+## TAREAS PARA REGISTRAR
+
+![alt text](../Things2/TAREAS_REGISTRAR.PNG)
