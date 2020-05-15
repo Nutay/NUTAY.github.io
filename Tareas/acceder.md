@@ -1,0 +1,3 @@
+## TAREAS PARA ACCEDER DATOS
+
+![alt text](../Things2/TAREAS_ACEDER_DATOS.PNG)
