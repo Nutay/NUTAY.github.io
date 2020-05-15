@@ -1,15 +1,15 @@
 # HISTORIAS DE USUARIO
 
-### Registrar nutriologo: [34](Tareas/registrar.md)
+### Registrar nutriologo: [40](Tareas/registrar.md)
 ![alt text](Things2/REGISTRAR.PNG)
 
-### Ingresar: [55](Tareas/registrar.md)
+### Ingresar: [40](Tareas/registrar.md)
 ![alt text](Things2/INGRESAR_APP.PNG)
 
-### Registrar paciente: [8](Tareas/registrarp.md)
+### Registrar paciente: [100](Tareas/registrarp.md)
 ![alt text](Things2/REGISTRARP.PNG)
 
-### Ver pacientes: [89](Tareas/ver_pacientes.md)
+### Ver pacientes: [100](Tareas/ver_pacientes.md)
 ![alt text](Things2/VER_PACIENTES.PNG)
 
 ### Acceder a datos del paciente: [13](Tareas/acceder.md)
@@ -18,13 +18,13 @@
 ### Calcular GER del paciente: [8](Tareas/ger.md)
 ![alt text](Things2/GER.PNG)
 
-### Calcular NAF del paciente: [89](Tareas/naf.md)
+### Calcular NAF del paciente: [100](Tareas/naf.md)
 ![alt text](Things2/NAF.PNG)
 
 ### Calcular GET del paciente: [5](Tareas/get.md)
 ![alt text](Things2/GET.PNG)
 
-### Obtener porcentaje de calorias: [21](Tareas/caloriasp.md)
+### Obtener porcentaje de calorias: [20](Tareas/caloriasp.md)
 ![alt text](Things2/CALORIASP.PNG)
 
 
