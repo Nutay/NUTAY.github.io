@@ -1,5 +1,17 @@
 # HISTORIAS DE USUARIO
 
+### Calcular GET del paciente: [5](Tareas/get.md)
+![alt text](Things2/GET.PNG)
+
+### Calcular GER del paciente: [8](Tareas/ger.md)
+![alt text](Things2/GER.PNG)
+
+### Acceder a datos del paciente: [13](Tareas/acceder.md)
+![alt text](Things2/ACCEDER_DATOS.PNG)
+
+### Obtener porcentaje de calorias: [20](Tareas/caloriasp.md)
+![alt text](Things2/CALORIASP.PNG)
+
 ### Registrar nutriologo: [40](Tareas/registrar.md)
 ![alt text](Things2/REGISTRAR.PNG)
 
@@ -12,20 +24,9 @@
 ### Ver pacientes: [100](Tareas/ver_pacientes.md)
 ![alt text](Things2/VER_PACIENTES.PNG)
 
-### Acceder a datos del paciente: [13](Tareas/acceder.md)
-![alt text](Things2/ACCEDER_DATOS.PNG)
-
-### Calcular GER del paciente: [8](Tareas/ger.md)
-![alt text](Things2/GER.PNG)
-
 ### Calcular NAF del paciente: [100](Tareas/naf.md)
 ![alt text](Things2/NAF.PNG)
 
-### Calcular GET del paciente: [5](Tareas/get.md)
-![alt text](Things2/GET.PNG)
-
-### Obtener porcentaje de calorias: [20](Tareas/caloriasp.md)
-![alt text](Things2/CALORIASP.PNG)
 
 
 ### Páginas
