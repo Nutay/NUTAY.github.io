@@ -9,6 +9,7 @@
 ### Páginas
 * [Página principal](index.md)
 * [Diagrama de Clases](CasosUso.md)
+* [Casos de Uso](CasosUso2.md)
 * [Diagramas de secuencia](secuencias.md)
 * [Historias de usuario](HistoriasUsuario.md)
 
