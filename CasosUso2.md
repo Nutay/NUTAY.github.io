@@ -1,7 +1,7 @@
 # DIAGRAMA DE CASOS DE USO
 
 ### 1.
-![alt text](Things_for_nutay/algo2.PNG)
+![alt text](Things_for_nutay/algo2.png)
 
 
 ### Páginas
