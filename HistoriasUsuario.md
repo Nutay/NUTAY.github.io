@@ -31,7 +31,7 @@
 
 ### Páginas
 * [Página principal](index.md)
-* [Casos de uso](CasosUso.md)
+* [Diagrama de Clases](CasosUso.md)
 * [Diagramas de secuencia](secuencias.md)
 * [Historias de usuario](HistoriasUsuario.md)
 
