@@ -1,4 +1,4 @@
-# CASOS DE USO
+# DIAGRAMA DE CLASES
 
 ### 1.
 ![alt text](Things_for_nutay/algo.PNG)
@@ -8,7 +8,7 @@
 
 ### Páginas
 * [Página principal](index.md)
-* [Casos de uso](CasosUso.md)
+* [Diagrama de Clases](CasosUso.md)
 * [Diagramas de secuencia](secuencias.md)
 * [Historias de usuario](HistoriasUsuario.md)
 
