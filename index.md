@@ -5,7 +5,7 @@ NUTAY sabe que lo más importante es la salud, por lo que busca darle la oportun
 
 ### Páginas
 * [Página principal](index.md)
-* [Casos de uso](CasosUso.md)
+* [Diagrama de Clases](CasosUso.md)
 * [Diagramas de secuencia](secuencias.md)
 * [Historias de usuario](HistoriasUsuario.md)
 
