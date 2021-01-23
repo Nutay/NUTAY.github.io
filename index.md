@@ -9,6 +9,6 @@ NUTAY sabe que lo más importante es la salud, por lo que busca darle la oportun
 * [Casos de Uso](CasosUso2.md)
 * [Diagramas de secuencia](secuencias.md)
 * [Historias de usuario](HistoriasUsuario.md)
-
+* [Ejemplo](example.md)
 #### Contacto
 En caso de tener dudas favor de contactar a [este_correo_no_existe@hotmail.com](https://outlook.live.com/owa/)
